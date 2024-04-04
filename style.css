@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-image: url(./background);
+}
+h1{
+    color: white;
+    text-decoration: underline;
+    text-align: center;
+    padding: 20px;
+}
+label {
+    color: white;
+    font-weight: bold;
+}
+input{
+    padding: 5px;
+}
+button{
+    padding: 5px;
+}
+.container {
+    padding: 0 20px 20px 20px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
+.flex-item{
+    padding-bottom:4px;
+}
+
+
+
